@@ -39,3 +39,6 @@ exports.generateAndTest = (name, age) => {
 
 exports.validateInput = validateInput;
 exports.generateText = generateText;
+
+
+// some comment for git testing
